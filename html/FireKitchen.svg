@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="73.304mm" width="133.5mm" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 133.50325 73.304153">
+ <defs>
+  <linearGradient id="linearGradient4599" y2="134.28" gradientUnits="userSpaceOnUse" x2="105.68" gradientTransform="translate(-.18899 -6.4256)" y1="149.59" x1="105.4">
+   <stop style="stop-color:#ff7f2a" offset="0"/>
+   <stop style="stop-color:#1d130c;stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient4717" gradientUnits="userSpaceOnUse" cy="937.64" cx="410" gradientTransform="matrix(.36946 -.0015898 .00047377 .11010 -43.22 103.64)" r="252.29">
+   <stop style="stop-color:#f6e423" offset="0"/>
+   <stop style="stop-color:#f62323;stop-opacity:.98780" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g transform="translate(-39.641 -132.85)">
+  <path d="m150.13 558.23a252.14 252.14 0 0 0 109.94 204.29h284.62a252.14 252.14 0 0 0 109.42 -204.29z" transform="scale(.26458)"/>
+  <path style="stroke:#f62323;stroke-width:.11720;fill:url(#radialGradient4717)" d="m52.138 167.21-12.337 39.045h133.34l-11.823-39.045-5.41 17.121-5.1842-17.121-6.9272 21.923-6.6378-21.923-6.4068 20.276-6.1392-20.276-6.3717 20.165-3.2076-9.2041-6.1454 16.897-8.4352-27.858-5.5816 17.665-5.349-17.665-7.1396 22.596-4.055-11.635-5.2638 14.474-7.7013-25.435-6.7557 21.38z"/>
+  <text y="147.39363" x="50.595364" xml:space="preserve" style="font-size:18.83px;letter-spacing:0px;word-spacing:0px;stroke:#000000;font-family:sans-serif;stroke-width:0.471;line-height:1.25;fill:url(#linearGradient4599)"><tspan x="50.595364" style="stroke:#000000;stroke-width:0.471;fill:url(#linearGradient4599)" y="147.39363">Fire Kitchen</tspan></text>
+ </g>
+</svg>
